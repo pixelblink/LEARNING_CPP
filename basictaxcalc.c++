@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// Q1. basoc tax calculator using conditional statements
 int main() {
     int a;
     cout<<"enter amount:";
