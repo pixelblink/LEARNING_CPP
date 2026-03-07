@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// Q1. basic tax calculator using conditional statements(dynamic)
 int main() {
     int a;
     cout<<"enter amount:";
