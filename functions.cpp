@@ -13,12 +13,12 @@ void sum(int a, int b){
 
 
 // return type without argument
-string hello(){
+string helloo(){
     return "helloooo";
 }
 
 // return type with argument
-int sum(int a, int b){
+int summ(int a, int b){
     return a+b;
 }
 
